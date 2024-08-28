@@ -1,0 +1,14 @@
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\13Abstração\obj\Debug\net8.0\13Abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\13Abstração\obj\Debug\net8.0\13Abstração.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\13Abstração\obj\Debug\net8.0\13Abstração.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\13Abstração\obj\Debug\net8.0\13Abstração.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\13Abstração\bin\Debug\net8.0\13Abstração.exe
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\13Abstração\bin\Debug\net8.0\13Abstração.deps.json
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\13Abstração\bin\Debug\net8.0\13Abstração.runtimeconfig.json
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\13Abstração\bin\Debug\net8.0\13Abstração.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\13Abstração\bin\Debug\net8.0\13Abstração.pdb
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\13Abstração\obj\Debug\net8.0\13Abstração.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\13Abstração\obj\Debug\net8.0\refint\13Abstração.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\13Abstração\obj\Debug\net8.0\13Abstração.pdb
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\13Abstração\obj\Debug\net8.0\13Abstração.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\13Abstração\obj\Debug\net8.0\ref\13Abstração.dll

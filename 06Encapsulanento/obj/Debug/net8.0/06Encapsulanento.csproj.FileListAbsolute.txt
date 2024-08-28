@@ -1,0 +1,14 @@
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\06Encapsulanento\obj\Debug\net8.0\06Encapsulanento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\06Encapsulanento\obj\Debug\net8.0\06Encapsulanento.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\06Encapsulanento\obj\Debug\net8.0\06Encapsulanento.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\06Encapsulanento\obj\Debug\net8.0\06Encapsulanento.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\06Encapsulanento\bin\Debug\net8.0\06Encapsulanento.exe
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\06Encapsulanento\bin\Debug\net8.0\06Encapsulanento.deps.json
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\06Encapsulanento\bin\Debug\net8.0\06Encapsulanento.runtimeconfig.json
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\06Encapsulanento\bin\Debug\net8.0\06Encapsulanento.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\06Encapsulanento\bin\Debug\net8.0\06Encapsulanento.pdb
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\06Encapsulanento\obj\Debug\net8.0\06Encapsulanento.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\06Encapsulanento\obj\Debug\net8.0\refint\06Encapsulanento.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\06Encapsulanento\obj\Debug\net8.0\06Encapsulanento.pdb
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\06Encapsulanento\obj\Debug\net8.0\06Encapsulanento.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\06Encapsulanento\obj\Debug\net8.0\ref\06Encapsulanento.dll

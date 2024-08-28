@@ -1,0 +1,14 @@
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\04ExerciciosImc\obj\Debug\net8.0\04ExerciciosImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\04ExerciciosImc\obj\Debug\net8.0\04ExerciciosImc.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\04ExerciciosImc\obj\Debug\net8.0\04ExerciciosImc.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\04ExerciciosImc\obj\Debug\net8.0\04ExerciciosImc.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\04ExerciciosImc\bin\Debug\net8.0\04ExerciciosImc.exe
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\04ExerciciosImc\bin\Debug\net8.0\04ExerciciosImc.deps.json
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\04ExerciciosImc\bin\Debug\net8.0\04ExerciciosImc.runtimeconfig.json
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\04ExerciciosImc\bin\Debug\net8.0\04ExerciciosImc.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\04ExerciciosImc\bin\Debug\net8.0\04ExerciciosImc.pdb
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\04ExerciciosImc\obj\Debug\net8.0\04ExerciciosImc.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\04ExerciciosImc\obj\Debug\net8.0\refint\04ExerciciosImc.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\04ExerciciosImc\obj\Debug\net8.0\04ExerciciosImc.pdb
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\04ExerciciosImc\obj\Debug\net8.0\04ExerciciosImc.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\04ExerciciosImc\obj\Debug\net8.0\ref\04ExerciciosImc.dll

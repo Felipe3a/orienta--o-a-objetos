@@ -1,0 +1,14 @@
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\01Conceitos\bin\Debug\net8.0\01Conceitos.exe
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\01Conceitos\bin\Debug\net8.0\01Conceitos.deps.json
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\01Conceitos\bin\Debug\net8.0\01Conceitos.runtimeconfig.json
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\01Conceitos\bin\Debug\net8.0\01Conceitos.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\01Conceitos\bin\Debug\net8.0\01Conceitos.pdb
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\01Conceitos\obj\Debug\net8.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\01Conceitos\obj\Debug\net8.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\01Conceitos\obj\Debug\net8.0\01Conceitos.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\01Conceitos\obj\Debug\net8.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\01Conceitos\obj\Debug\net8.0\01Conceitos.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\01Conceitos\obj\Debug\net8.0\refint\01Conceitos.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\01Conceitos\obj\Debug\net8.0\01Conceitos.pdb
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\01Conceitos\obj\Debug\net8.0\01Conceitos.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\01Conceitos\obj\Debug\net8.0\ref\01Conceitos.dll

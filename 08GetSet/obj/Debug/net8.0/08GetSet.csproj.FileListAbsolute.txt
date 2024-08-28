@@ -1,0 +1,14 @@
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\08GetSet\obj\Debug\net8.0\08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\08GetSet\obj\Debug\net8.0\08GetSet.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\08GetSet\obj\Debug\net8.0\08GetSet.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\08GetSet\obj\Debug\net8.0\08GetSet.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\08GetSet\bin\Debug\net8.0\08GetSet.exe
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\08GetSet\bin\Debug\net8.0\08GetSet.deps.json
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\08GetSet\bin\Debug\net8.0\08GetSet.runtimeconfig.json
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\08GetSet\bin\Debug\net8.0\08GetSet.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\08GetSet\bin\Debug\net8.0\08GetSet.pdb
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\08GetSet\obj\Debug\net8.0\08GetSet.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\08GetSet\obj\Debug\net8.0\refint\08GetSet.dll
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\08GetSet\obj\Debug\net8.0\08GetSet.pdb
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\08GetSet\obj\Debug\net8.0\08GetSet.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive - SENAC - SP\Área de Trabalho\orientação a objetos\08GetSet\obj\Debug\net8.0\ref\08GetSet.dll
